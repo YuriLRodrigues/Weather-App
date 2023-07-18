@@ -8,3 +8,5 @@ WeatherApp é uma aplicação de clima que permite aos usuários obter informaç
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JS"/> 
     </div>
 </div>
+
+Deploy do site: https://weather-app-nine-sepia-91.vercel.app/
